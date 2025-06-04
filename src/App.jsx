@@ -78,7 +78,7 @@ function App() {
   return (
     <>
       <ToastContainer />
-      <div className="lg:w-10/12 mx-auto p-1" >
+      <div className="lg:w-10/12 mx-auto p-2" >
         <Navbar freeCoin={freeCoin}></Navbar>
         <Hero
           setPage={setPage}
