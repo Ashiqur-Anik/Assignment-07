@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/Y7C17xb1/Mashrafe-Bin-Mortaza.jpg",
+      "name": "Mashrafe Bin Mortaza",
+      "country": "Bangladesh",
+      "role": "Bowler",
+      "rating": 8.5,
+      "battingStyle": "Right-Hand-Bat",
+      "price": 1500
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/bgdCz8Kv/Shakib-Al-Hasan.jpg",
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "role": "All-Rounder",
+      "rating": 9.7,
+      "battingStyle": "Left-Hand-Bat",
+      "price": 2000
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/qYLnCXh8/Taskin-Ahmed.jpg",
+      "name": "Taskin Ahmed",
+      "country": "Bangladesh",
+      "role": "Bowler",
+      "rating": 8.8,
+      "battingStyle": "Right-Hand-Bat",
+      "price": 1400
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/7J5WxJWg/Litton-Das.jpg",
+      "name": "Litton Das",
+      "country": "Bangladesh",
+      "role": "Batsman",
+      "rating": 8.9,
+      "battingStyle": "Right-Hand-Bat",
+      "price": 1600
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/QF9CzhBv/Mehidy-Hasan.jpg",
+      "name": "Mehidy Hasan",
+      "country": "Bangladesh",
+      "role": "All-Rounder",
+      "rating": 8.6,
+      "battingStyle": "Right-Hand-Bat",
+      "price": 1300
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/v6wb8Kxm/Najmul-Hossain-Shanto.webp",
+      "name": "Najmul Hossain Shanto",
+      "country": "Bangladesh",
+      "role": "Batsman",
+      "rating": 8.4,
+      "battingStyle": "Left-Hand-Bat",
+      "price": 1200
+    },
+    {
+      "id": 7,
+      "img": " https://i.ibb.co/kgcfxMvG/Mustafizur-Rahman.jpg",
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "role": "Bowler",
+      "rating": 9.0,
+      "battingStyle": "Left-Hand-Bat",
+      "price": 1900
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/JW7b7fgB/Mahmudullah-Riyad.webp",
+      "name": "Mahmudullah Riyad",
+      "country": "Bangladesh",
+      "role": "All-Rounder",
+      "rating": 8.7,
+      "battingStyle": "Right-Hand-Bat",
+      "price": 1700
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/VWLnb2cV/Mushfiqur-Rahim.jpg",
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "role": "Wicketkeeper",
+      "rating": 9.1,
+      "battingStyle": "Right-Hand-Bat",
+      "price": 1800
+    },
+    {
+      "id": 10,
+      "img": "https://i.ibb.co/r2DBqJnD/Tamim-Iqbal.jpg",
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "role": "Batsman",
+      "rating": 9.2,
+      "battingStyle": "Left-Hand-Bat",
+      "price": 2000
+    }
+  ]
